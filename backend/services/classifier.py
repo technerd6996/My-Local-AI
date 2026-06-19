@@ -69,7 +69,7 @@ EXAMPLES = {
 }
 
 MODEL_MAP = {
-    "simple": "qwen2.5:7b",
+    "simple": "qwen3:8b",
     "medium": "deepseek-r1:7b",
     "hard":   "deepseek-r1:7b",  # Phase 4 will escalate hard → cloud
 }
